@@ -1,0 +1,67 @@
+body {
+	background-color: black;
+	color: white;
+}
+#game-name{
+	height: 75px;
+	width: 400px;
+	background-color: orange;
+	padding: 10px;
+
+}
+#instructions{
+	height: 250px;
+	background-color: blue;
+	padding: 10px;
+}
+#game-number{
+	height: 100px;
+	width: 90px;
+	background-color: red;
+	font-size: 30px;
+	padding: 10px 10px 10px 20px;
+	display: inline-block;
+}
+#wins-div{
+	height: 50px;
+	width: 85px;
+	background-color: green;
+	font-size: 15px;
+	padding: 10px;
+	display: inline-block;
+	float: right;
+	clear: both;
+
+
+
+}
+#losses-div{
+	height: 50px;
+	width: 85px;
+	background-color: blue;
+	font-size: 15px;
+	padding: 10px;
+	display: inline-block;
+	float: right;
+	clear: both;
+}
+#score-alert{
+	height: 15px;
+	padding: 10px;
+}
+#user-number{
+	height: 50px;
+	font-size: 20px;
+	padding: 10px;
+}
+.crystal{
+	height: 50px;
+	margin: 3px;
+}
+
+
+
+
+
+
+
